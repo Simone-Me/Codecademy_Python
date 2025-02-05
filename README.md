@@ -1,13 +1,11 @@
 # Codecademy Python Exercises
 
-This repository contains my Jupyter Notebook works from Codecademy exercises while attending the online class Data Science Foundations. These exercises cover various topics in Python programming and data analysis.
+This repository contains my Jupyter Notebook works from Codecademy exercises while attending the online class ***Data Science Foundations***. These exercises cover various topics in Python programming and data analysis.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [List of Exercises](#list-of-exercises)
-- [How to Run](#how-to-run)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -43,28 +41,3 @@ The exercises in this repository are part of the Python chapter. They are design
    - Description: Using Pandas for data manipulation and analysis.
    - File: `exercise_7.ipynb`
 
-## How to Run
-
-To run the Jupyter Notebooks in this repository, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Codecademy_Python.git
-   cd Codecademy_Python
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Start Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-4. Open the desired notebook file and run the cells.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com].
